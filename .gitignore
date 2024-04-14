@@ -1,0 +1,40 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+
+# Visual Studio / MonoDevelop / Rider generated files
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.user
+*.unityproj
+*.tmp
+*.bak
+*.pdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Compiled source files
+*.dll
+*.pdb
+
+# Custom folders
+# Add any additional folders that are generated during development and should be ignored
