@@ -86,7 +86,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1747491486956191164}
-  - component: {fileID: -947118217860055779}
+  - component: {fileID: -6638513095926772109}
   m_Layer: 0
   m_Name: Pipes
   m_TagString: Untagged
@@ -103,7 +103,7 @@ Transform:
   m_GameObject: {fileID: 3290161441091493651}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.86, y: -1.67, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -112,7 +112,7 @@ Transform:
   - {fileID: 5058082120830748162}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &-947118217860055779
+--- !u!114 &-6638513095926772109
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
